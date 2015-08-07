@@ -1,7 +1,11 @@
 body {
   padding-top: 50px;
+  padding-bottom: 50px;
 }
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
+.dev-logos li img {
+  width: 32px;
+  height: 32px;
+}
+.profile {
+  padding: 10em 0;
 }
